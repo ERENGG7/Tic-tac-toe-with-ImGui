@@ -1,20 +1,25 @@
 # Tic-tac-toe-with-ImGui
-A modern  and simple C++ game providing simple ui features
 
-![Tic-Tac-Toe Game Screenshot](screenshot.png)
+A modern and simple C++ game providing a simple UI using ImGui.
 
-##Table of Contents
--[Description](#description)
--[Features](#features)
--[License](#license)
+![Tic-Tac-Toe Game Screenshot](screenshot_ui.png)
 
-##Description
-This is simple tic-tac-toe game with ImGui and C++ and includes features:
-**Check for winner**: Text with the winner symbol is displayed.
-**Check for ecuality** if no one wins, a text is displayed.
-**Option for new game**: Pop up window with option for new game or to quit.
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Installation](#installation)
+- [License](#license)
 
-##Installation
-1.Clone the repository:
+## Description
+This is a simple Tic-Tac-Toe game written in C++ using ImGui.
+The code with render loop is not included!
+
+## Features
+- Check for winner: displays text with the winning symbol
+- Check for equality (draw): displays a message if no one wins
+- New game option: popup window with options to start a new game or quit
+
+## Installation
+1. Clone the repository:
 ```bash
-
+git clone https://github.com/ERENGG7/Tic-tac-toe-with-ImGui.git
